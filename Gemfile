@@ -11,3 +11,5 @@ group :development, :test do
   gem 'growl'
   gem 'rake'
 end
+
+gem 'omniauth-oauth2', github: 'bobbymcwho/omniauth-oauth2', branch: 'bump-omniauth-to-prerelease'
